@@ -7,7 +7,7 @@
 
 ## Plotly
 
-* Open app.js to see source code for interactive dashboard. 
+* Open https://github.com/BRhoads1155/Interactive-Visualizations/blob/main/StarterCode/static/js/app.js to see source code for interactive dashboard. 
 
 * Javascript was the main language used to complete. d3.json was the key way to open and manipulate the data found in samples.json.
 
